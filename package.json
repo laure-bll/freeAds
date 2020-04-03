@@ -21,5 +21,11 @@
         "sass": "^1.26.3",
         "sass-loader": "^7.1.0",
         "vue-template-compiler": "^2.6.11"
+    },
+    "dependencies": {
+        "acorn": "^7.1.1",
+        "kind-of": "^6.0.3",
+        "minimist": "^1.2.5",
+        "serialize-javascript": "^3.0.0"
     }
 }
