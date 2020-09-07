@@ -1995,7 +1995,7 @@
                 "symfony/polyfill-php80": "^1.15"
             },
             "conflict": {
-                "symfony/http-kernel": "<3.4"
+                "symfony/http-kernel": "4.4.13"
             },
             "require-dev": {
                   "symfony/http-kernel": "4.4.13"
@@ -2411,7 +2411,7 @@
         },
         {
             "name": "symfony/http-kernel",
-            "version": "v4.4.11",
+            "version": "v4.4.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/http-kernel.git",
